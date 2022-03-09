@@ -1,8 +1,8 @@
-# Code Art
+# Turtle Art
 ## by Jeremy Glebe
-Art projects, animations, and more created dynamically using code.
+Art projects, animations, and more created dynamically using Python's _turtle_ module.
 
 
-| Python Turtle                                |
+| Project List                                |
 | -------------------------------------------- |
-| [Turtle Polygons](/CodeArt/Turtle Polygons/) |
+| [Polygons](/TurtleArt/Polygons/) |
